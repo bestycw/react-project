@@ -7,4 +7,20 @@
     justify-content: center;
 }
 
+.app-container{
+  width: 100%;
+  max-width: 1080px;
+  margin: auto;
+  height: 784px;
+  border: 1px solid #000;
+  display: flex;
 
+}
+.app-left{
+  width:30%;
+  height: 100%;
+}
+.app-right{
+  width: 70%;
+  height: 100%;
+}
